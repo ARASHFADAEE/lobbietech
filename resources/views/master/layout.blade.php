@@ -47,41 +47,16 @@
                     <a href="#">Services</a>
 
                   </li>
-                  <li class="menu-item-has-children">
+                  <li>
                     <a href="portfolio.html">Portfolio</a>
-                    <ul>
-                      <li>
-                        <a href="portfolio.html">Portfolio</a>
-                      </li>
-                      <li>
-                        <a href="portfolio-details.html">Portfolio Details</a>
-                      </li>
-                    </ul>
                   </li>
-                  <li class="menu-item-has-children">
+                  <li>
                     <a href="/blog">Blog</a>
 
                   </li>
 
-                  <li class="menu-item-has-children">
-                    <a href="#">Pages</a>
-                    <ul>
-                      <li>
-                        <a href="contact.html">Contact</a>
-                      </li>
-                      <li>
-                        <a href="team.html">Team</a>
-                      </li>
-                      <li>
-                        <a href="team-details.html">Team Details</a>
-                      </li>
-                      <li>
-                        <a href="case-study.html">Case Study Details</a>
-                      </li>
-                      <li>
-                        <a href="faq.html">FAQ</a>
-                      </li>
-                    </ul>
+                  <li c>
+                    <a href="#">Contact us</a>
                   </li>
                 </ul>
               </div>
