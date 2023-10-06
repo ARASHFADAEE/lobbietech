@@ -36,23 +36,16 @@
             <div class="cs-main_header_center">
               <div class="cs-nav cs-primary_font cs-medium">
                 <ul class="cs-nav_list">
-                  <li class="menu-item-has-children cs-mega_menu">
+                  <li>
                     <a href="/">Home</a>
 
                   </li>
                   <li>
                     <a href="/about">About</a>
                   </li>
-                  <li class="menu-item-has-children">
+                  <li>
                     <a href="#">Services</a>
-                    <ul>
-                      <li>
-                        <a href="service.html">Services</a>
-                      </li>
-                      <li>
-                        <a href="service-details.html">Service Details</a>
-                      </li>
-                    </ul>
+
                   </li>
                   <li class="menu-item-has-children">
                     <a href="portfolio.html">Portfolio</a>
